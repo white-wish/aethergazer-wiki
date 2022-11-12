@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "aethergazer-wiki",
+  "short_name": "Aether Gazer Wiki",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A modern Aether Gazer fan-made game wiki!"
+}
